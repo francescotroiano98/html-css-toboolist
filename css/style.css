@@ -78,8 +78,9 @@ main {
     
 }
 .check{
+    background-color: aqua;
     padding: 5px;
-    border-radius: 50px;
+    border-radius: 100%;
     border-color:  blue;
     border: 3px;
 }
