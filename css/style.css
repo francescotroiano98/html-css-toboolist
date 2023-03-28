@@ -77,17 +77,30 @@ main {
     display: inline-block;
     
 }
+.edit{
+    
+}
 .check{
-    background-color: aqua;
-    padding: 5px;
+    font-size: 10px;
+    width: 10px;
+    height: 10px;
+    padding: 2px;
     border-radius: 100%;
-    border-color:  blue;
-    border: 3px;
+    border: 1px solid  blue;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 13px;
 }
 .cross{
-    background-color: rgb(186, 90, 75);
-    padding: 5px;
+    font-size: 10px;
+    width: 10px;
+    height: 10px;
+    padding: 2px;
     border-radius: 100%;
-    border-color:  blue;
-    border: 3px;
+    border: 1px solid  rgb(162, 19, 19);
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 13px;
 }
