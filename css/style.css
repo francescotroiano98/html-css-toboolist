@@ -2,6 +2,7 @@ header{
     background-color: rgb(188, 188, 216);
     height: 120px;
     width: 100%;
+    
   
     
 }
@@ -9,12 +10,14 @@ header{
 img{
     padding-left: 10px;
     padding-top: 10px;
+    vertical-align: middle;
     
     
 }
 .h1-style{
     display: inline-block;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    vertical-align: middle;
     
 
 }
