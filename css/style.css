@@ -78,7 +78,13 @@ main {
     
 }
 .edit{
-    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px;
+    border-radius: 15px;
+    font-size: 10px;
+    font-weight: bold;
+    background-color: rgb(8, 105, 170);
+    color: white;
 }
 .check{
     font-size: 10px;
