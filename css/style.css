@@ -39,6 +39,7 @@ main {
 
 }
 .bottom-main-section{
+    padding: 20px;
     background-color: white;
     height: 1000px;
     border-bottom-left-radius: 5px;
@@ -65,4 +66,7 @@ main {
     font-size: small;
     border-radius: 5px;
     
+}
+.bottom-main-section{
+    padding: 20px;
 }
