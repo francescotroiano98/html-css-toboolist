@@ -2,10 +2,18 @@ header{
     background-color: rgb(188, 188, 216);
     height: 80px;
     width: 100%;
+  
     
 }
 img{
     padding-left: 10px;
     padding-top: 10px;
     
+    
+}
+.h1-style{
+    display: inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+
 }
