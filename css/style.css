@@ -1,6 +1,6 @@
 header{
     background-color: rgb(188, 188, 216);
-    height: 120px;
+    height: 95px;
     width: 100%;
     
   
@@ -41,7 +41,7 @@ main {
 .bottom-main-section{
     padding: 20px;
     background-color: white;
-    height: 1000px;
+    height: 690px;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
 
@@ -72,16 +72,18 @@ main {
 }
 .text-task{
     font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.7);
     font-size: 90%;
     margin: 0;
     display: inline-block;
-    margin-top: 8px;
-    margin-bottom: 8px;
+    margin-top: 15px;
+    margin-bottom: 15px;
     
 }
 .edit{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding: 5px;
+    padding: 5px 10px 5px 10px;
     border-radius: 15px;
     font-size: 10px;
     font-weight: bold;
@@ -90,7 +92,7 @@ main {
 }
 .recruit{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding: 5px;
+    padding: 5px 10px 5px 10px;
     border-radius: 15px;
     font-size: 10px;
     font-weight: bold;
@@ -99,7 +101,7 @@ main {
 }
 .mob{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding: 5px;
+    padding: 5px 10px 5px 10px;
     border-radius: 15px;
     font-size: 10px;
     font-weight: bold;
@@ -108,7 +110,7 @@ main {
 }
 .q1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding: 5px;
+    padding: 5px 10px 5px 10px;
     border-radius: 15px;
     font-size: 10px;
     font-weight: bold;
@@ -117,7 +119,7 @@ main {
 }
 .web{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding: 5px;
+    padding: 5px 10px 5px 10px;
     border-radius: 15px;
     font-size: 10px;
     font-weight: bold;
@@ -126,7 +128,7 @@ main {
 }
 .sales{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding: 5px;
+    padding: 5px 10px 5px 10px;
     border-radius: 15px;
     font-size: 10px;
     font-weight: bold;
@@ -144,7 +146,7 @@ main {
     display: inline-block;
     vertical-align: middle;
     text-align: center;
-    line-height: 13px;
+    line-height: 11px;
     margin-right: 3px;
 }
 .cross{
@@ -157,7 +159,7 @@ main {
     display: inline-block;
     vertical-align: middle;
     text-align: center;
-    line-height: 13px;
+    line-height: 10px;
     margin-right: 3px;
 }
 h2{
