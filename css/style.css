@@ -25,3 +25,18 @@ main {
     
     padding: 30px 150px 15px 150px;
 }
+.top-main-section{
+    background-color: white;
+    height: 200px;
+    margin-bottom: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+
+}
+.bottom-main-section{
+    background-color: white;
+    height: 1000px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+}
