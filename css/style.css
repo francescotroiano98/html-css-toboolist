@@ -138,6 +138,7 @@ main {
 .check{
     color: green;
     font-size: 10px;
+    font-weight: bold;
     width: 10px;
     height: 10px;
     padding: 2px;
@@ -150,12 +151,14 @@ main {
     margin-right: 3px;
 }
 .cross{
+    color: red;
     font-size: 10px;
+    font-weight: bold;
     width: 10px;
     height: 10px;
     padding: 2px;
     border-radius: 100%;
-    border: 1px solid  rgb(162, 19, 19);
+    border: 1px solid  red;
     display: inline-block;
     vertical-align: middle;
     text-align: center;
