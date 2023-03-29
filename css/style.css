@@ -167,10 +167,10 @@ li{
 }
 .cross{
     color: red;
-    font-size: 10px;
+    font-size: 7px;
     font-weight: bold;
-    width: 10px;
-    height: 10px;
+    width: 15px;
+    height: 15px;
     padding: 2px;
     border-radius: 100%;
     border: 1px solid  red;
