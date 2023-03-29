@@ -36,7 +36,7 @@ main {
     padding: 30px 150px 15px 150px;
 }
 .top-main-section{
-    padding: 20px 0 20px 20px;
+    padding: 20px 0 20px 35px;
     vertical-align: middle;
     background-color: white;
     
@@ -46,7 +46,7 @@ main {
 
 }
 .bottom-main-section{
-    padding: 20px;
+    padding: 35px;
     background-color: white;
     height: 690px;
     border-bottom-left-radius: 5px;
@@ -74,9 +74,6 @@ main {
     font-weight: bold;
     border-radius: 5px;
     border: 1px solid rgb(110, 107, 107);
-}
-.bottom-main-section{
-    padding: 20px;
 }
 
 li{
